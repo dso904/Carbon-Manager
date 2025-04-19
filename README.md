@@ -9,13 +9,17 @@
 - [Features](#features)
 - [Security & Privacy](#security--privacy)
 
+## Youtube Video
+Please go through our [project demonstration video](https://www.youtube.com/watch?v=ENhW6AN1RK0).
+
 ## Overview
 
-Carbon Manager is an AI-powered platform designed to help individuals and organizations accurately track, analyze, and mitigate their carbon footprints through intuitive dashboards and actionable insights. By answering a simple set of daily-activity questions via an interactive Q&A interface, even children as young as 5 can understand their environmental impact. Our platform addresses the pressing threat of global warming caused by greenhouse gases like carbon dioxide and methane, which trap heat in the Earth's atmosphere, deplete the ozone layer, and lead to extreme weather events and ecosystem disruptions. Understanding one’s personal carbon footprint is the first step towards meaningful climate action. Watch our demo video for a quick walkthrough: [Team Hackminors Video](https://www.youtube.com/watch?v=ENhW6AN1RK0).
-## Features
+Carbon Manager is an AI-powered platform designed to help individuals and organizations accurately track, analyze, and mitigate their carbon footprints through intuitive dashboards and actionable insights. By answering a simple set of daily-activity questions via an interactive Q&A interface, even children as young as 5 can understand their environmental impact. Our platform addresses the pressing threat of global warming caused by greenhouse gases like carbon dioxide and methane, which trap heat in the Earth's atmosphere, deplete the ozone layer, and lead to extreme weather events and ecosystem disruptions. Understanding one’s personal carbon footprint is the first step towards meaningful climate action. Watch our demo video for a quick walkthrough: 
 
-- **AI Carbon Footprint Manager**  
-  Possibly the world’s first fully AI‑driven footprint calculator, delivering highly accurate monthly carbon emissions predictions via an intuitive Q&A interface—even children aged 5+ can use it. Includes a dynamic graph and “Did You Know?” educational widget that surfaces global carbon facts and model insights at the bottom of the main tab. ([carbon-manager.vercel.app](https://carbon-manager.vercel.app/features))
+## ([Features](https://carbon-manager.vercel.app/features))
+
+- **[AI Carbon Footprint Calculator](https://carbonmanager.streamlit.app/)**  
+  Possibly the world’s first fully AI‑driven footprint calculator, delivering highly accurate monthly carbon emissions predictions via an intuitive Q&A interface—even children aged 5+ can use it. Includes a dynamic graph and “Did You Know?” educational widget that surfaces global carbon facts and model insights at the bottom of the main tab.
 
 - **Offset Options & Expert-Guided Planting**  
   Calculates the exact number of trees needed to counterbalance emissions and offers two pathways: self‑planting under certified expert supervision (with issuance of planting certificates) or donating carbon credits to partner NGOs for large‑scale reforestation projects.
@@ -29,7 +33,7 @@ Carbon Manager is an AI-powered platform designed to help individuals and organi
 - **Correction Factor**  
   An expert feedback mechanism invites industry authorities to compare their sensor or lab‑generated data against app predictions. Validated discrepancies feed into a dynamic correction factor that refines the neural network for ever‑greater accuracy.
 
-- **AI Chatbot Plugin & Chat2Eco LLM**  
+- **[Chat2Eco LLM](https://cm-chat.onrender.com/)**  
 - **Plugin Integration**: Available on the documentation page and via an icon at the bottom-right of the footprint interface. *Please note the Chat UI is hosted on Render and may take up to 40 seconds to load on first access.*
 - **Base Model (Chat2Eco-180B)**: A sparse decoder-only Mixture-of-Experts network selecting **2 experts per token per layer**, merging parameter slices from Gemini 7B, LLaMA 70B-Chat, and Mixtral 8x7b via SLERP interpolation for high-capacity yet efficient inference.  
 - **Fine-Tuned Model (Chat2Eco-180B-Chat)**: 132B total parameters (36B active per input), refined with QLoRA and SFT trainers on a ~12T-token corpus (Common Crawl, Wikipedia, proprietary). Training pipelines employ Jupyter Notebooks, Apache Spark, and advanced data processing tools.  
@@ -40,7 +44,7 @@ Carbon Manager is an AI-powered platform designed to help individuals and organi
   - **Creative Writing** – Crafts poems, reports, speeches, and slogans on sustainability topics in various languages.  
 - **Disclaimer**: Users should verify critical outputs against real-world data.  
 
-**Community Discussion Forum**  
+**[Community Discussion Forum](https://appdevelopersagnik.wixsite.com/carbon-manager-forum)**  
 Powered by WIX with Velo APIs and Firebase for backend services, the forum replicates a social-media experience with user profiles, privacy settings, followable topics/groups, and customizable feeds. Users can ask questions, start discussions, share carbon-reduction strategies, and showcase their own projects. A badge system recognizes contributions, and monthly leaderboards highlight top “Carbon Warriors” to inspire continued engagement.
 
 ## Security & Privacy
@@ -73,7 +77,7 @@ The 2030 Agenda for Sustainable Development, adopted by all United Nations membe
 - **Project Documentation**: [Carbon Manager Docs](https://teamhackminors.github.io)  
 - **AI Carbon Footprint Calculator**: [Live Application](https://teamhackminors.github.io/carbonfootprintmanager)  
 - **Chat2Eco UI**: [AI Chatbot Interface](https://cm-chat.onrender.com/) *(may take up to 40 seconds to load)*  
-- **Carbon Manager Forum**: [Community Discussion](https://bit.ly/CarbonManagerForum)  
+- **Carbon Manager Forum**: [Community Discussion](https://appdevelopersagnik.wixsite.com/carbon-manager-forum)  
 - **Live Features Demo**: [Features Page](https://carbon-manager-hackminors-2025.vercel.app/features)  
 - **Google Drive Presentation**: [Project Overview](https://drive.google.com/file/d/14MoovBMj2122y3CTeu4lmf-2yW3lRqpc/preview)
 
