@@ -8,7 +8,6 @@
 - [Overview](#overview)
 - [Features](#features)
 - [Security & Privacy](#security--privacy)
-- [Goals & Outcomes](#project-goals--&--un--SDG--Alignment)
 
 ## Overview
 
