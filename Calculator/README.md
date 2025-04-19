@@ -32,6 +32,6 @@ Apart from this, it also has the following features:-
 
 *AI Carbon Footprint Manager*- https://teamhackminors.github.io/carbonfootprintmanager
 
-*Chat2Eco, the AI Chatbot (UI)*- https://chatbot-apon.onrender.com
+*Chat2Eco, the AI Chatbot (UI)*- [Chat UI](https://cm-chat.onrender.com/)
 
 *Carbon Manager Forum*- https://bit.ly/CarbonManagerForum
