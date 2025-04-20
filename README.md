@@ -79,7 +79,7 @@ The 2030 Agenda for Sustainable Development, adopted by all United Nations membe
 - **Chat2Eco UI**: [AI Chatbot Interface](https://cm-chat.onrender.com/) *(may take up to 40 seconds to load)*  
 - **Carbon Manager Forum**: [Community Discussion](https://appdevelopersagnik.wixsite.com/carbon-manager-forum)  
 - **Live Features Demo**: [Features Page](https://carbon-manager-hackminors-2025.vercel.app/features)  
-- **Google Drive Presentation**: [Project Overview](https://drive.google.com/file/d/14MoovBMj2122y3CTeu4lmf-2yW3lRqpc/preview)
+- **Google Drive Presentation**: [Project Overview](https://drive.google.com/uc?export=download&id=14MoovBMj2122y3CTeu4lmf-2yW3lRqpc)
 
 ## Contact
 
