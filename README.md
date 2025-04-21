@@ -3,6 +3,13 @@
 **Authors**: Sagnik Chakraborty, Purbayon Sarkar, Hrishikesh Saha  
 **Institution**: South Point High School, Kolkata, West Bengal, India
 
+## License
+
+**Carbon Manager** by **Purbayon Sarkar** is licensed under  
+[Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International](https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1)
+
+[![CC BY-NC-ND 4.0](https://mirrors.creativecommons.org/presskit/icons/by-nc-nd.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1)
+
 ## Table of Contents
 
 - [Overview](#overview)
